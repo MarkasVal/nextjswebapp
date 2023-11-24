@@ -1,5 +1,5 @@
 export default function Footer() {
     return (
-        <div><h2>Copyright 2023</h2></div>
+        <div><h2 className = "Footer"><b>Gibjohn Copyright 2023</b></h2></div>
         )
   }

@@ -3,6 +3,18 @@
 @tailwind utilities;
 
 
-body {
+.Footer{
+    height:70px;
+    text-align: center;
+    background-color: #28D0DB;
 
+    color: white;
+    font-size: 25px;
+    font-family: 'Archivo Black';
 }
+
+.bg-color{
+    background-color: #28D0DB;
+    font-family: 'Archivo Black';
+}
+
